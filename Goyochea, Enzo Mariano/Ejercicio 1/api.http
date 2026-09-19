@@ -4,4 +4,4 @@ GET {{url}}/
 
 ###
 
-GET {{url}}/rectangulo?alto=-w&ancho=4
+GET {{url}}/rectangulo?alto=2&ancho=4
